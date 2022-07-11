@@ -1,0 +1,6 @@
+blubracket --version
+
+echo 'export PATH="~/Applications/blubracket:$PATH"' >>~/.bash_profile;
+source ~/.bash_profile
+
+git commit -a -m "new commit"  
